@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: jdbc-pool
+Implementation-Version: 8.0.15-SNAPSHOT
+Built-By: wu_jia
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: jdbc-pool
+Implementation-Vendor-Id: org.apache.tomcat
+Build-Jdk: 1.8.0_171
+Specification-Version: 8.0.15-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: The Apache Software Foundation
+
